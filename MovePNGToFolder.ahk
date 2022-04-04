@@ -1,3 +1,5 @@
+Esc::ExitApp
+
 ; Press F1
 F1::
     If (Selection := Explorer_GetSelection()) {
